@@ -1,19 +1,19 @@
-# 2.4 Relations
+# 2.4 Permissions
+In order to use Piwik in iframe on user side you have to create a standard user in Piwik, because of security reason it is not allowed to login via iframe with a super access user (=admin). For more information see [4. Operations](4operations.md)
 
-If you have created teams and put in members and additional infofields, you can now make relations between all of this.
+#### 2.4.1 List permissions
+On the dashboard tab 'permissions' you see a list of the existing xoops groups with the permissions.
+![](../assets/2admin_perms1.png)
 
-#### 2.4.1 List relations
-On the dashboard tab 'relations' you see a list of the existing relations with the settings.
-![](../assets/2admin_relations_list.png)
-
-#### 2.4.2 Add/edit relations
-![](../assets/2admin_relations_add.png)
-
-#### Teams and members
-Define the team and person, which should be linked.
-
-#### Infofields
-Additional you can use 5 infofield, which will be shown on user side for this relation.
-
+#### 2.4.2 Add/edit permissions
+![](../assets/2admin_perms2.png)
+#### Piwik User
+Select one of the Piwik Users, which have the right "view" (for more information see also [4. Operations](4operations.md)
+Attention: for security reason it is not allowed to select a super access user for log in via iframe
 #### Weight
-You can define the ranking of the members on user side.
+You can define the ranking of the permissions for users, which are members of different groups.
+
+2.4.3 Final permissions settings (example)
+![](../assets/2admin_perms3.png)
+
+
