@@ -1,5 +1,5 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![logoXoops.jpg](en/assets/logoXoops.jpg)
 
 # Module wgXPiwik
 #### Version: 1.02
