@@ -18,4 +18,5 @@ b) add a new user (in my example I named him "xoopsmember"
 c) set right "view" to enabled
 ![](../assets/2piwik_setup3.png)
 5. Go back to module admin area of wgXPiwik
-6. Do the necessary module and block settings (see also ) and create the the permissions for the xoops usergroups (see also 
+6. Do the necessary module and block settings (see also [2.2 Settings](2admin_settings.md)) and create the the permissions for the xoops usergroups (see also [2.4 Permissions](2admin_permissions.md))
+7. Adopt your Piwik on user side (add/remove wigdets) as you want (see also [5. User side](5userside.md))
