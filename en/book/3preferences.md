@@ -13,3 +13,9 @@ Please decide, which tracker type you want use:
 * js-Tracker
 * Tracker image
 
+#### Default period
+Define default period, which should be preselected when starting Piwik
+
+#### Default date
+Define default date, which should be preselected when starting Piwik
+
