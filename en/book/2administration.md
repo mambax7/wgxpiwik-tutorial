@@ -19,9 +19,9 @@ On the dashboard you get a short overview about the functionalities and the cont
 .png](../assets/0dashboard.png)
 
 ## 2.0.3 Functionalities for admins:
-* [Infofields](2admin_infofields.md)
-* [Teams](2admin_teams.md)
-* [Members](2admin_members.md)
-* [Relations](2admin_relations.md)
+* [Settings](2admin_settings.md)
+* [Piwik-Sites](2admin_sites.md)
+* [Piwik-Users](2admin_users.md)
+* [Permissions](2admin_permissions.md)
 * [About](2admin_about.md)
 * [Help](2admin_help.md)
