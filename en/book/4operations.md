@@ -3,6 +3,7 @@
 To use this module you have to to following:
 1. Install the module himself
 2. Goto module wgXPiwik > settings
+3. 
 
 3. 
 
