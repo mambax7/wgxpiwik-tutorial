@@ -8,15 +8,14 @@ To use this module you have to to following:
 ![](../assets/2piwik_install1.png)
 Run through install process of Piwik
 ![](../assets/2piwik_install8.png)
-4. After installing of Piwik successfully you have to setup Piwik
+4. After installing of Piwik successfully you have to setup Piwik. To used Piwik in an iframe on user side, you need to create a non admin user, because of security reasons it is not allowed to use Piwik in an iframe with super access rights (=admin)
 5. Login to Piwik with admin account (which you have defined minutes ago). 
 ![](../assets/2piwik_setup1.png)
 Goto settings ![](../assets/2piwik_setup2.png)
-To used Piwik in an iframe on user side, you need to create a non admin user, because of security reasons it is not allowed to use Piwik in an iframe with super access rights (=admin)
-To do this you have to:
+
 a) goto Users
 b) add a new user (in my example I named him "xoopsmember"
 c) set right "view" to enabled
-
+![](../assets/2piwik_setup3.png)
 5. Go back to module admin area of wgXPiwik
-6. 
+6. Do the necessary module and block settings (see also ) and create the the permissions for the xoops usergroups (see also 
