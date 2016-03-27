@@ -15,7 +15,7 @@
 
 This module is for implementation of Piwik to your Xoops.
 
-You can provide the statistical informations/widgets of Piwik also on user side, so your website clients neew no knowlegde about Piwik.
+You can provide the statistical informations/widgets of Piwik also on user side, so your website clients do not need knowlegde about Piwik.
 
 ![0dashboard.png](assets/0dashboard.png)<br/>
 *Figure 1: Main view of the wgTeams Module (Admin side)*
