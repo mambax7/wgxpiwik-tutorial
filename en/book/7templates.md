@@ -1,29 +1,25 @@
 # 7. Templates
 
-wgTeams contains following templates
+wgXPiwik contains following templates
 
 ### 7.1 User templates
-* wgteams_breadcrumbs.tpl
-* wgteams_footer.tpl
-* wgteams_header.tpl
-* wgteams_member_default.tpl
-* wgteams_member_left.tpl
-* wgteams_member_right.tpl
-* wgteams_members_list.tpl
-* wgteams_teams.tpl
-* wgteams_teams_list.tpl
+* wgxpiwik_breadcrumbs.tpl
+* wgxpiwik_footer.tpl
+* wgxpiwik_header.tpl
+* wgxpiwik_iframe.tpl
+* wgxpiwik_index.tpl
 
 ### 7.2 Block templates
-* wgteams_block_teams.tpl
-* wgteams_block_teamsmembers.tpl
+* wgxpiwik_block_tracker.tpl
 
 ### 7.3 Admin templates
-* wgteams_admin_about.tpl
-* wgteams_admin_footer.tpl
-* wgteams_admin_header.tpl
-* wgteams_admin_index.tpl
-* wgteams_admin_infofields.tpl
-* wgteams_admin_labels.tpl
-* wgteams_admin_members.tpl
-* wgteams_admin_relations.tpl
-* wgteams_admin_teams.tpl
+* wgxpiwik_admin_about.tpl
+* wgxpiwik_admin_footer.tpl
+* wgxpiwik_admin_header.tpl
+* wgxpiwik_admin_index.tpl
+* wgxpiwik_admin_perms.tpl
+* wgxpiwik_admin_piwik_install.tpl
+* wgxpiwik_admin_settings.tpl
+* wgxpiwik_admin_sites.tpl
+* wgxpiwik_admin_users.tpl
+
