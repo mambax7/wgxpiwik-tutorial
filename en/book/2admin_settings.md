@@ -1,12 +1,13 @@
-# 2.1 Infofields
+# 2.1 Settings
+2.1.1 After installing wgXPiwik and before installing Piwik the tab "Settings" 
+a) show the result of the check about the piwik install path
+b) offers a button for starting Piwik installation
+![](../assets/2admin_settings1.png)
 
-For each person there are default fields like name, email, and so on (see also see [Members](2admin_members.md)).
-For usage with teams see [Relations](2admin_relations.md)
+2.1.2 After installing Piwik (see also 
+[4. Operations](4operations.md)) you get basic information about wgXPiwik settings
+![](../assets/2admin_settings2.png)
+For proper usage of the module you should use the recommended block settings (activated, hidden and used for all sites)
 
-#### 2.1.1 List infofields
-On the dashboard tab 'infofields' you see a list of the existing infofields.
-![](../assets/2admin_infofields_list.png)
-
-#### 2.1.2 Add/edit infofield
-![](../assets/2admin_infofields_add.png)
-You have only to define the field name. You can show the field name also on user side.
+2.1.3 Final recommended settings
+![](../assets/2admin_settings3.png)
