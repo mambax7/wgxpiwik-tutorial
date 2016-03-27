@@ -15,7 +15,8 @@ There are seven (7) menu options on top.  These can be seen in the graphic below
 
 ## 2.0.2 Dashboard
 On the dashboard you get a short overview about the functionalities and the content of the module.
-![0dashboard1.png](../assets/0dashboard1.png)
+![0dashboard
+.png](../assets/0dashboard.png)
 
 ## 2.0.3 Functionalities for admins:
 * [Infofields](2admin_infofields.md)
