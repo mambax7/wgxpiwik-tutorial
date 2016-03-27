@@ -17,19 +17,19 @@ This module is for implementation of Piwik to your Xoops.
 
 You can provide the statistical informations/widgets of Piwik also on user side, so your website clients neew no knowlegde about Piwik.
 
-![0dashboard1.png](en/assets/0dashboard.png)<br/>
-*Figure 1: Main view of the wgxPiwik Module (Admin side)*
+![0dashboard.png](assets/0dashboard.png)<br/>
+*Figure 1: Main view of the wgTeams Module (Admin side)*
 
 # Table of Content
 
-* [Install/Uninstall](en/book/1install.md)
-* [Administration Menu](en/book/2administration.md)
-* [Preferences](en/book/3preferences.md)
-* [Operating Instructions](en/book/4operations.md)
-* [The User Side](en/book/5userside.md)
-* [Blocks](en/book/6blocks.md)
-* [Templates](en/book/7templates.md)
-* [Module Credits](en/book/9credits.md)
+* [Install/Uninstall](book/1install.md)
+* [Administration Menu](book/2administration.md)
+* [Preferences](book/3preferences.md)
+* [Operating Instructions](book/4operations.md)
+* [The User Side](book/5userside.md)
+* [Blocks](book/6blocks.md)
+* [Templates](book/7templates.md)
+* [Module Credits](book/9credits.md)
 
 ##License:
 
