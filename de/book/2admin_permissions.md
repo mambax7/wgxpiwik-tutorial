@@ -1,8 +1,10 @@
-# 2.4 Permissions
-In order to use Piwik in iframe on user side you have to create a standard user in Piwik, because of security reason it is not allowed to login via iframe with a super access user (=admin). For more information see [4. Operations](4operations.md)
+# 2.4 Berechtigungen
+Um Piwik in einem iframe auf der Benutzerseite verwenden zu können, müssen sie in Piwik einen Standarduser anlegen, da es aus Sicherheitsgründen nicht zulässing ist, sich im iframe als Super-Acces-User (=Administrator) einzuloggen.
+Für weitere Informationen siehe auch [4. Bedienungsanleitung](4operations.md)
 
-#### 2.4.1 List permissions
-On the dashboard tab 'permissions' you see a list of the existing xoops groups with the permissions.
+#### 2.4.1 Berechtigungen auflisten
+Auf den Registerblatt 'Berechtigungen' sehen sie eine Liste der aktuellen Xoops-Gruppen. Sobald sie dieses Registerblatt aufrufen, erfolgt ein Abgleich mit den bestehenden Gruppen (neue Gruppen werden hinzugefügt, mittlerweile gelöschte Gruppen werden weider entfernt).
+
 ![](../assets/2admin_perms1.png)
 
 #### 2.4.2 Add/edit permissions
