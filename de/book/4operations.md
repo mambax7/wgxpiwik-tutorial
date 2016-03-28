@@ -1,17 +1,18 @@
 # 4.0 Bedienungshinweise
 
-To use this module you have to to following:
-1. Install the module himself
-2. Goto module wgXPiwik > settings
+Um dieses Modul verwenden zu können, müssen sie folgenden ausführen:
+1. Installieren sie das Modul
+2. Gehen sie zum Modul wgXPiwik > Einstellungen
 ![](../assets/2admin_settings1.png)
-3. Click on "Install" and install Piwik
+3. Klicken sie4 auf "Installieren" und installieren sie Piwik
 ![](../assets/2piwik_install1.png)
-Run through install process of Piwik
+Führen sie den gesamten Installationsprozess von Piwik aus
 ![](../assets/2piwik_install8.png)
-4. After installing of Piwik successfully you have to setup Piwik. To used Piwik in an iframe on user side, you need to create a non admin user, because of security reasons it is not allowed to use Piwik in an iframe with super access rights (=admin)
-5. Login to Piwik with admin account (which you have defined minutes ago). 
+4. Nach der erfolgreichen Installation von Piwik müssen sie noch die erforderlichen Einstellung in Piwik vornehmen. Um Piwik in einem iframe auf der Benutzerseite verwenden zu können, müssen sie in Piwik einen Standarduser anlegen, da es aus Sicherheitsgründen nicht zulässing ist, sich im iframe mit Super-Acces-Rechten (=Administrator) einzuloggen.
+Für weitere Informationen siehe auch [4. Bedienungsanleitung](4operations.md)
+5. Melden sie sich mit dem gerade erstellen Admin-Konto bei Piwik an.
 ![](../assets/2piwik_setup1.png)
-Goto settings ![](../assets/2piwik_setup2.png)
+Gehen sie zur Administration ![](../assets/2piwik_setup2.png)
 
 a) goto Users
 b) add a new user (in my example I named him "xoopsmember"
