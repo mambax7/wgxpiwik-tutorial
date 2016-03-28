@@ -17,9 +17,9 @@ Auf der Hauptübersicht erhalten Sie Informationen über die Funktionen und den 
 ![0dashboard.png](../assets/0dashboard.png)
 
 ### Funktionalitäten für Administratoren:
-* [Infofelder](2admin_infofields.md)
-* [Teams](2admin_teams.md)
-* [Mitglieder](2admin_members.md)
-* [Beziehungen](2admin_relations.md)
+* [Einstellungen](2admin_settings.md)
+* [Piwik-Seiten](2admin_sites.md)
+* [Piwik-Benutzer](2admin_users.md)
+* [Berechtigungen](2admin_permissions.md)
 * [Über](2admin_about.md)
 * [Hilfe](2admin_help.md)
