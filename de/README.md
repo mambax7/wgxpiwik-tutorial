@@ -17,6 +17,8 @@ wgXPiwik ist ein einfaches Modul, um Piwik über iframe in ihr Xoops einzubinden
 
 Sie können die statistischen Informationeund Widgets von Piwik auch ihren Benutzern zur Verfügung stellen, ohne dass diese Kenntnisse pber Piwik bzw. ein Login-Konto verfügen müssen.
 
+Für detailierte Informationen über Piwik und die Widgets in Piwik besuchen sie bitte http://piwik.org/
+
 ![0dashboard.png](assets/0dashboard.png)<br/>
 *Figure 1: Hauptübersicht des Moduls wgTeams (Admin-Bereich)*
 
