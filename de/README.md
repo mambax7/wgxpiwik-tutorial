@@ -13,7 +13,8 @@
 
 ## Basisinformation zum Modul
 
-wgTeams ist ein einfaches Modul zur Präsentation ihres Teams.
+wgTea
+ms ist ein einfaches Modul zur Präsentation ihres Teams.
 
 Sie können verschiedene Teams und Personen definieren. Danach können Sie die Personen mit einem oder mehreren Teams verknüpfen. Die Basisinformationen (z.B. EMail-Adresse) der Person werden dann bei allen Teams angezeigt.<br/>
 Zusätzlich können weitere Felder erstellt werden, die dann bei bestimmten Kombinationen Team/Mitglieder verwendet werden, wie z.B. Aufgaben innerhalb des Teams, Position im Team, usw.
