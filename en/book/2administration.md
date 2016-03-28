@@ -17,6 +17,7 @@ There are seven (7) menu options on top.  These can be seen in the graphic below
 On the dashboard you get a short overview about the functionalities and the content of the module.
 ![0dashboard
 .png](../assets/0dashboard.png)
+a
 
 ## 2.0.3 Functionalities for admins:
 * [Settings](2admin_settings.md)
