@@ -11,7 +11,7 @@ Run through install process of Piwik
 4. After installing of Piwik successfully you have to setup Piwik. To used Piwik in an iframe on user side, you need to create a non admin user, because of security reasons it is not allowed to use Piwik in an iframe with super access rights (=admin)
 5. Login to Piwik with admin account (which you have defined minutes ago). 
 ![](../assets/2piwik_setup1.png)
-Goto settings ![](../assets/2piwik_setup2.png)
+Goto administration ![](../assets/2piwik_setup2.png)
 
 a) goto Users
 b) add a new user (in my example I named him "xoopsmember"
