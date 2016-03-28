@@ -14,12 +14,12 @@ Für weitere Informationen siehe auch [4. Bedienungsanleitung](4operations.md)
 ![](../assets/2piwik_setup1.png)
 Gehen sie zur Administration ![](../assets/2piwik_setup2.png)
 
-a) goto Users
-b) add a new user (in my example I named him "xoopsmember"
-c) set right "view" to enabled
+a) Gehen sie zu Benutzer
+b) Erstellen sie einen neuen Benutzer (in meinem Beispiel heißt dieser "xoopsmember")
+c) Ändern/Aktivieren sie das Recht auf "Ansicht"
 ![](../assets/2piwik_setup3.png)
-5. Go back to module admin area of wgXPiwik
-6. Do the necessary module and block settings (see also [2.2 Settings](2admin_settings.md)) and create the the permissions for the xoops usergroups (see also [2.4 Permissions](2admin_permissions.md))
-7. Adopt your Piwik on user side (add/remove wigdets) as you want (see also [5. User side](5userside.md))
-8. For detailed information about Piwik and widgets of Piwik goto http://piwik.org/
+5. Gehen sie zurück zum Administartionsbereich des Moduls wgXPiwik
+6. Nehmen sie die erforderlichen Modul- und Blockeinstellungen vor (siehe auch [2.2 Einstellungen](2admin_settings.md)) und vergeben sie die Rechte für die Xoops-Gruppen (siehe auch [2.4 Berechtigungen](2admin_permissions.md))
+7. Passen sie Piwik auf der Benutzerseite entsprechen ihren Wünschen an (siehe auch [5. Benutzerseite](5userside.md))
+8. Für detaillierte Informationen über Piwik und die Widgets von Piwik besuchen sie bitte http://piwik.org/
 
