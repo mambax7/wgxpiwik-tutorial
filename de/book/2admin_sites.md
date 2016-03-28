@@ -1,8 +1,8 @@
 # 2.2 Piwik Sites
-On the dashboard tab 'Piwik-Sites' you get a list of the sites registered in your current Piwik.
+Auf dem Registerblatt 'Piwik-Seiten' erhalten sie eine Auflistung der in ihrem aktuellen Piwik registrierten Seiten.
 
-#### 2.2.1 List after installing module/before installing Piwik
+#### 2.2.1 Auflistung nach Modulinstallation/vor der Installation von Piwik
 ![](../assets/2admin_sites1.png)
 
-#### 2.2.2 List after installing Piwik (example)
+#### 2.2.2 Auflistung nach der Installation von Piwik (Beispiel)
 ![](../assets/2admin_sites2.png)
