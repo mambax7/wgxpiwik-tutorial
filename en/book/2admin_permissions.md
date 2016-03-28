@@ -14,7 +14,7 @@ Select one of the Piwik Users, which have the right "view" (for more information
 #### Weight
 You can define the ranking of the permissions for users, which are members of different groups.
 
-2.4.3 Final permissions settings (example)
+#### 2.4.3 Final permissions settings (example)
 ![](../assets/2admin_perms3.png)
 
 
