@@ -8,8 +8,8 @@ On the dashboard tab 'permissions' you see a list of the existing xoops groups w
 #### 2.4.2 Add/edit permissions
 ![](../assets/2admin_perms2.png)
 #### Piwik User
-Select one of the Piwik Users, which have the right "view" (for more information see also [4. Operations](4operations.md)
-Attention: for security reason it is not allowed to select a super access user for log in via iframe
+Select one of the Piwik Users, which have the right "view" (for more information see also [4. Operations](4operations.md)![](../assets/info/info.png))
+ >![](../assets/info/important.png)**Attention**: for security reason it is not allowed to select a super access user for log in via iframe
 #### Weight
 You can define the ranking of the permissions for users, which are members of different groups.
 
