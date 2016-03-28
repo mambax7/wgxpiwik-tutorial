@@ -7,11 +7,11 @@ Auf den Registerblatt 'Berechtigungen' sehen sie eine Liste der aktuellen Xoops-
 
 ![](../assets/2admin_perms1.png)
 
-#### 2.4.2 Add/edit permissions
+#### 2.4.2 Hinzufügen/Bearbeiten von Berechtigungen
 ![](../assets/2admin_perms2.png)
 #### Piwik User
-Select one of the Piwik Users, which have the right "view" (for more information see also [4. Operations](4operations.md))
- >![](../assets/info/important.png)**Attention**: for security reason it is not allowed to select a super access user for log in via iframe
+Wählen sie einen Piwik-Benutzer, dem das Recht 'Ansicht' zugeordnet wurde (für weitere Informationen siehe auch [4. Bedienungsanleitung](4operations.md))
+ >![](../assets/info/important.png)**Achtung**: Aus Sicherheitsgründen ist es niocht erlaubt, einen Super-Access-Benutzer für den Login über iframe zu verwendenfor security reason it is not allowed to select a super access user for log in via iframe
 
 #### Weight
 You can define the ranking of the permissions for users, which are members of different groups.
