@@ -1,8 +1,8 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-# Module wgTeams
-#### Version: 1.06
+# Module wgXPiwik
+#### Version: 1.02
 #### for XOOPS 2.5.7
       
 ![logoModule.png](assets/logoModule.png)
@@ -13,14 +13,9 @@
 
 ## Basisinformation zum Modul
 
-wgTea
-ms ist ein einfaches Modul zur Präsentation ihres Teams.
+wgXPiwik ist ein einfaches Modul, um Piwik über iframe in ihr Xoops einzubinden.
 
-Sie können verschiedene Teams und Personen definieren. Danach können Sie die Personen mit einem oder mehreren Teams verknüpfen. Die Basisinformationen (z.B. EMail-Adresse) der Person werden dann bei allen Teams angezeigt.<br/>
-Zusätzlich können weitere Felder erstellt werden, die dann bei bestimmten Kombinationen Team/Mitglieder verwendet werden, wie z.B. Aufgaben innerhalb des Teams, Position im Team, usw.
-
-Alle Templates sind voll responsive.
->![](./assets/info/important.png) **Achtung:** Dieses Modul arbeitet nur in Kombination mit einem Bootstrap-Theme, oder sie müssen die Bootstrap-Dateien manuell in ihrem Theme einbinden.
+Sie können die statistischen Informationeund Widgets von Piwik auch ihren Benutzern zur Verfügung stellen, ohne dass diese Kenntnisse pber Piwik bzw. ein Login-Konto verfügen müssen.
 
 ![0dashboard.png](assets/0dashboard.png)<br/>
 *Figure 1: Hauptübersicht des Moduls wgTeams (Admin-Bereich)*
