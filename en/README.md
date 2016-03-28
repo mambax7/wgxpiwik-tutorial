@@ -17,6 +17,8 @@ This module is for implementation of Piwik to your Xoops.
 
 You can provide the statistical informations/widgets of Piwik also on user side, so your website clients do not need knowlegde about Piwik and they do not need a login account.
 
+For detailed information about Piwik and widgets of Piwik goto http://piwik.org/
+
 ![0dashboard.png](assets/0dashboard.png)<br/>
 *Figure 1: Main view of the wgXPiwik Module (Admin side)*
 
