@@ -4,7 +4,7 @@ Es sind keine speziellen Maßnahmen erforderlich, führen Sie den Standardinstal
 Wenn Sie zustätzliche Informationen benötigen, lesen Sie die Installationshinweise unter [XOOPS Operations Manual](http://goo.gl/adT2i).
 
 #### 1.1 Installation
-- Extrahieren Sie den Ordner 'wgteams' in das Module-Verzeichnis
+- Extrahieren Sie den Ordner 'wgxpiwiks' in das Module-Verzeichnis
 - Loggen sie sich als Administrator und wechseln sie zur Xoops Administrationseite
 - Installieren Sie das Modul über Administration -> Module -> Module installieren
 ![](../assets/1install.png)<br/>
