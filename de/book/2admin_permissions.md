@@ -16,7 +16,7 @@ Wählen sie einen Piwik-Benutzer, dem das Recht 'Ansicht' zugeordnet wurde (für
 #### Reihung
 Legen sie die Reihung der Berechtigungen für Benutzer fest, die Mitglied in verschiedenen Gruppen sind.
 
-2.4.3 Endgültige Einstellungen Berechtigungen (Beispiel)
+####2.4.3 Endgültige Einstellungen Berechtigungen (Beispiel)
 ![](../assets/2admin_perms3.png)
 
 
