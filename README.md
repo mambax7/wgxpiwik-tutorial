@@ -13,7 +13,7 @@
 
 ## Module Purpose 
 
-This module is for implementation of Piwik to your Xoops website.
+This simple module is for implementation of Piwik to your Xoops website.
 
 You can provide the statistical informations/widgets of Piwik also on user side, so your website clients do not need knowlegde about Piwik and they do not need a login account.
 
