@@ -5,7 +5,7 @@
 #### Version: 1.02
 #### for XOOPS 2.5.7
       
-![logoModule.png](en/assets/logoModule.png)
+![logoModule.png](assets/logoModule.png)
             
 ## User Manual
 
