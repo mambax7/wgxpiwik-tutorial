@@ -15,7 +15,12 @@
 
 wgXPiwik ist ein einfaches Modul, um Piwik über iframe in ihr Xoops einzubinden.
 
-Sie können die statistischen Informationeund Widgets von Piwik auch ihren Benutzern zur Verfügung stellen, ohne dass diese Kenntnisse pber Piwik bzw. ein Login-Konto verfügen müssen.
+* Piwik ist im Modul enthalten
+* Die Installation von Piwik kann vom Modul aus gestartet werden
+* Sie können die Einstellungen von Piwik selbst nicht verwalten (User erstellen, Berechtigungen der user verwalten,...). Dies hat über die Piwikoberfläche zu erfolgen.
+* Sie können die Piwik Charts/Widgets via iframe auf der Userseite anzeigen lassen/zur Verfügung stellen. Da die Piwikfunktion 'logme' verwendet wird, ist ein seperater Login nicht erforderlich.
+* Die Berechtigungen für die Xoops User können je Gruppe verwaltet werden
+* Das Tracking ihrer Seiten erfolgt über einen Block. Sie können daher das Tracking nur für bestimmte Seiten, alle Seiten oder nur die Startseite aktivieren.
 
 Für detailierte Informationen über Piwik und die Widgets in Piwik besuchen sie bitte http://piwik.org/
 
