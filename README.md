@@ -2,8 +2,8 @@
 ![logoXoops.jpg](en/assets/logoXoops.jpg)
 
 # Module wgXPiwik
-#### Version: 1.02
-#### for XOOPS 2.5.7
+#### Version: 1.06 RC1
+#### for XOOPS 2.5.7 / XOOPS 2.5.8
       
 ![logoModule.png](en/assets/logoModule.png)
             
