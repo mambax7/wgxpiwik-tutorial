@@ -3,7 +3,8 @@
 
 # Module wgXPiwik
 #### Version: 1.06 RC1
-#### for XOOPS 2.5.7 / XOOPS 2.5.8
+#### für XOOPS 2.5.7+
+#### für PHP 5.5, 5.6 an 7.0
       
 ![logoModule.png](assets/logoModule.png)
             
@@ -41,3 +42,5 @@ Für detailierte Informationen über Piwik und die Widgets in Piwik besuchen sie
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Sofern nicht anders angegeben, fällt dieser Inhalt unter die Lizenzbestimmungen <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 Alle Derivate sind Teil von XOOPS Project <a rel="xoops" href="http://www.xoops.org">www.xoops.org</a>
+
+##Bedienungsanleitung Version: 1.1
