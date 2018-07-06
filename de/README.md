@@ -1,12 +1,12 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![](assets/logoXoops.jpg)
 
 # Module wgXPiwik
 #### Version: 1.06 RC1
 #### für XOOPS 2.5.7+
 #### für PHP 5.5, 5.6 an 7.0
       
-![logoModule.png](assets/logoModule.png)
+![](assets/logoModule.png)
             
 ## Bedienungsanleitung
 

@@ -1,11 +1,11 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](en/assets/logoXoops.jpg)
+![](en/assets/logoXoops.jpg)
 
 # Module wgXPiwik
 #### Version: 1.06 RC1
 #### for XOOPS 2.5.7 / XOOPS 2.5.8
       
-![logoModule.png](en/assets/logoModule.png)
+![](en/assets/logoModule.png)
             
 ## User Manual
 
@@ -37,7 +37,7 @@ For detailed information about Piwik and widgets of Piwik goto http://piwik.org
 * [Templates](en/book/7templates.md)
 * [Module Credits](en/book/9credits.md)
 
-##License:
+## License:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
